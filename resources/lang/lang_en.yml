@@ -202,3 +202,5 @@ strip: "&7%player%'s armor has been removed!"
 
 # DO NOT CHANGE THIS UNLESS YOU KNOW WHAT YOU'RE DOING!
 lang-version: 6194
+
+staff-unfroze: "&bYou unfroze &7%target%&b."
